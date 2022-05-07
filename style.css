@@ -6,7 +6,7 @@ body {
 
 
 span.font-primary {
-    color: #816e2d;
+    color: #20ebe0;
 }
 
 
@@ -28,7 +28,7 @@ h2{
 }
 
 
-a.font-black{
+a.font-black {
     color: #000 !important;
 }
 
@@ -52,38 +52,38 @@ ABOUT
     margin-bottom: 10px;
 }
 
-#about.name {
-    font-size: 19px;
-}
-
-#about.vocation {
-    font-size: 18px;
-    color: #a8a8ab;
-    margin-bottom: 10px;
-
-}
-
-
-#about.skills{
+#about .name {
     font-size: 15px;
-    color: #000;
+}
+
+#about .vocation {
+    font-size: 18px;
+    color: rgb(35, 184, 127);
+    margin-bottom: 10px;
+
+}
+
+
+#about .skills {
+    font-size: 15px;
+    color: #204feb;
     margin-bottom: 10px;
 }
 
 
-#about .email{
-    margin-top: 14px;
-    font-size: 20px;
+#about .email {
+    margin-top: 18px;
+    font-size: 17px;
 }
 
 
-#about{
+#about {
     text-align: center;
-    color: blue;
+    color: #000;
 }
 
 
-#about .icons{
+#about .icons {
     margin-top: 20px;
     font-size: 30px;
 }
@@ -92,6 +92,8 @@ ABOUT
 #about .icons a{
     color: #000;
 }
+
+
 
 
 /######################
@@ -117,5 +119,10 @@ PROJECT
 
 #project .card img{
     width: 100%;
+}
+
+
+#project .card-title{
+    font-weight: bold;
 }
 
