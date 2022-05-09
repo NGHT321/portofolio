@@ -1,7 +1,7 @@
 
 
 body {
-    font-family:"monospace",sans-serif;
+    font-family: "monospace",sans-serif;
 }
 
 
@@ -14,7 +14,7 @@ span.font-primary {
 
 .title-icon {
     font-size: 30px;
-    font-width: bold;
+    font-weight: bold;
 }
 
 p{
@@ -28,7 +28,7 @@ h2{
 }
 
 
-a.font-black {
+a .font-black {
     color: #000 !important;
 }
 
@@ -38,7 +38,7 @@ a.font-black {
 
 ABOUT
 
-##########################/
+##########################
 
 #about {
     margin: 60px auto;
@@ -114,6 +114,7 @@ PROJECT
 
 #project{
     text-align: center;
+    margin-top: 6%;
 }
 
 
