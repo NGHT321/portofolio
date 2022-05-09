@@ -84,7 +84,7 @@ ABOUT
 
 
 #about .icons {
-    margin-top: 20px;
+    margin-top: 25px;
     font-size: 30px;
 }
 
@@ -113,7 +113,7 @@ PROJECT
 
 
 #project{
-    text-align: center;
+    text-align: left;
     margin-top: 6%;
 }
 
